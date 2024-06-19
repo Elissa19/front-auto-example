@@ -1,0 +1,1 @@
+# front-auto-example
