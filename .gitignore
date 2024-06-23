@@ -1,0 +1,16 @@
+.idea
+.env
+.npmrc
+.vscode
+.github
+node_modules/
+/playwright_report/
+/test_result/
+/playwright/.cache/
+/build/
+package-lock.json
+/test-results/
+/allure-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
